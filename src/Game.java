@@ -112,7 +112,7 @@ class Game
         currentRoom = starting;
         //Test
         inventory.add(new Item("flask_of_acid"));
-        
+        //So acidic-test
         //Puts items in rooms where applicable.
         laboratory.setItem(new Item("acid"));
         winecellar.setItem(new Item("lighter"));

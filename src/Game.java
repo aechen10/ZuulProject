@@ -110,7 +110,7 @@ class Game
         
         // Start the game in the starting room
         currentRoom = starting;
-        
+        //Test
         inventory.add(new Item("flask_of_acid"));
         
         //Puts items in rooms where applicable.
